@@ -1,0 +1,15 @@
+{
+  "name": "Coin",
+  "symbol": "CON",
+  "type": "PLS20",
+  "decimals": 18,
+  "description": "Coin (CON) is a token issued on the Plasma network, designed for goods exchange and payment in business activities. It enables fast, secure, and low-cost transactions for stores and merchants.",
+  "website": "https://plasmascan.to",
+  "explorer": "https://plasmascan.to/token/0x718e71F78e8AD12B09B48a470e92B5068b2Ed96c",
+  "status": "active",
+  "id": "0x718e71F78e8AD12B09B48a470e92B5068b2Ed96c",
+  "links": {
+    "github": "https://github.com/canocmit/assets/tree/master/blockchains/plasma/assets/0x718e71F78e8AD12B09B48a470e92B5068b2Ed96c"
+  }
+}
+
