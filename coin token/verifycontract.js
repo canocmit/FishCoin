@@ -1,0 +1,1 @@
+npx hardhat verify --network plasma 0xCeE6f884BB892981492f889554b29A3Ba84124af 1000000000
