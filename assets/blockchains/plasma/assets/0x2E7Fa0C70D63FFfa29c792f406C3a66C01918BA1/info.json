@@ -8,6 +8,8 @@
   "explorer": "https://plasmascan.to/token/0x2E7Fa0C70D63FFfa29c792f406C3a66C01918BA1",
   "status": "active",
   "id": "0x2E7Fa0C70D63FFfa29c792f406C3a66C01918BA1",
+  "image": "ipfs://bafkreidqaddrjqlqp4poowc4maowlxktgmd7h2dyjty6ee24r3s3gin7h4",
+  "logoURI": "https://gateway.lighthouse.storage/ipfs/bafkreidqaddrjqlqp4poowc4maowlxktgmd7h2dyjty6ee24r3s3gin7h4",
   "links": {
     "github": "https://github.com/canocmit/FishCoin/blob/main/assets/blockchains/plasma/assets/0x2E7Fa0C70D63FFfa29c792f406C3a66C01918BA1"
   }
