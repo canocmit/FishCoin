@@ -4,7 +4,11 @@
 
 <h1 align="center">🐟 Fishcoin (FIS)</h1>
 
-🌐 Website: [https://fishcoinvn.vercel.app](https://fishcoinvn.vercel.app)
+<p align="center">
+  <a href="https://fishcoinvn.vercel.app" target="_blank">🌐 https://fishcoinvn.vercel.app</a>
+</p>
+
+---
 
 <p align="center">
  **Fishcoin (FIS)** Acts as a reward point at stores.
