@@ -5,7 +5,9 @@
 <h1 align="center">🐟 Fishcoin (FIS)</h1>
 
 <p align="center">
-  A digital token connecting the real-world aquarium ecosystem through blockchain transparency.
+ **Fishcoin (FIS)** Acts as a reward point at stores.
+   Connecting fish farmers, fish buyers and fish stores through a transparent blockchain platform.
+   Creating real value from every transaction and physical product.
 </p>
 
 ---
