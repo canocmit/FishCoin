@@ -1,7 +1,7 @@
 const { ethers } = require("hardhat");
 
 async function main() {
-  const initialSupply = 1000000; // 1 tỷ token
+  const initialSupply = 1000000; // 1 triệu token
   const [deployer] = await ethers.getSigners();
 
   console.log("Deploying Fishcoin with account:", deployer.address);
